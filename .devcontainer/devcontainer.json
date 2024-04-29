@@ -1,4 +1,4 @@
 {
     "workspaceFolder": "azdo",
-    "postCreateCommand": "git clone <url> azdo"
+    "postCreateCommand": "git clone https://EFSA-AMU@dev.azure.com/EFSA-AMU/chatpdf/_git/chatpdf azdo"
 }
